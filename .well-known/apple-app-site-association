@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["547F2JX5UW.com.camrenlandry.dumbdumb"],
+        "components": [
+          { "/": "/dumbdumb/toggle*", "comment": "NFC tags written by Dumbdumb toggle Dumb Mode" }
+        ]
+      }
+    ]
+  }
+}
